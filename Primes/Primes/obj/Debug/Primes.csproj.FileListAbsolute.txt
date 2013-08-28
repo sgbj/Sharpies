@@ -1,0 +1,6 @@
+C:\Users\ScottBatary\Documents\GitHub\Sharpies\Primes\Primes\bin\Debug\Primes.exe.config
+C:\Users\ScottBatary\Documents\GitHub\Sharpies\Primes\Primes\bin\Debug\Primes.exe
+C:\Users\ScottBatary\Documents\GitHub\Sharpies\Primes\Primes\bin\Debug\Primes.pdb
+C:\Users\ScottBatary\Documents\GitHub\Sharpies\Primes\Primes\obj\Debug\Primes.csprojResolveAssemblyReference.cache
+C:\Users\ScottBatary\Documents\GitHub\Sharpies\Primes\Primes\obj\Debug\Primes.exe
+C:\Users\ScottBatary\Documents\GitHub\Sharpies\Primes\Primes\obj\Debug\Primes.pdb
